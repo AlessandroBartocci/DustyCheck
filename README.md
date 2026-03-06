@@ -1,3 +1,5 @@
+<img width="979" height="512" alt="Capture" src="https://github.com/user-attachments/assets/47dea2f6-ab07-4df1-a538-e69f7b0481ba" />
+
 # DustyCheck
 
 A clean, colorized Windows Batch wrapper for locating files by extension and modification age.
